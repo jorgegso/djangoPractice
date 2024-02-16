@@ -1,32 +1,32 @@
-# Nombre del Proyecto
+# Django Practice
 
-Descripción breve del proyecto.
+Short description of the project.
 
-## Instalación
+## Installation
 
-### Requisitos previos
+### Prerequisites
 - Python 3.x
 - Django
 
-### Pasos de instalación
-1. Clona este repositorio: `git clone https://github.com/tu_usuario/tu_proyecto.git`
-2. Navega al directorio del proyecto: `cd tu_proyecto`
-3. Crea un entorno virtual con virtualenv: `virtualenv venv`
-4. Activa el entorno virtual:
-   - En Windows: `venv\Scripts\activate`
-   - En macOS y Linux: `source venv/bin/activate`
-5. Instala las dependencias: `pip install -r requirements.txt`
-6. Realiza las migraciones de la base de datos: `python manage.py migrate`
+### Installation Steps
+1. Clone this repository: `git clone https://github.com/your_username/your_project.git`
+2. Navigate to the project directory: `cd your_project`
+3. Create a virtual environment with virtualenv: `virtualenv venv`
+4. Activate the virtual environment:
+   - On Windows: `venv\Scripts\activate`
+   - On macOS and Linux: `source venv/bin/activate`
+5. Install dependencies: `pip install -r requirements.txt`
+6. Apply database migrations: `python manage.py migrate`
 
-## Uso
+## Usage
 
-1. Ejecuta el servidor de desarrollo de Django: `python manage.py runserver`
-2. Abre tu navegador y ve a `http://localhost:8000/`
+1. Run the Django development server: `python manage.py runserver`
+2. Open your browser and go to `http://localhost:8000/`
 
-## Contribución
+## Contribution
 
-¡Contribuciones son bienvenidas! Si tienes ideas para mejorar este proyecto, por favor crea una solicitud de extracción.
+Contributions are welcome! If you have ideas to improve this project, please create a pull request.
 
-## Licencia
+## License
 
-Este proyecto está bajo la Licencia [MIT](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
